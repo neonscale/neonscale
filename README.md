@@ -60,6 +60,11 @@ Além das estratégias para nossos clientes, desenvolvemos tecnologia própria, 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 
+<br>
+
+**🤖 Automação & Workflows** <br>
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
 ---
 
 ## 🚀 Pronto para escalar o seu negócio?
